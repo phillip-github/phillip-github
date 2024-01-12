@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @phillip-github
-- 👀 I’m interested in physical activities like reading 📚, cycling 🚴‍♂️, working out 🏋️‍♂️ and I also like music 🎼
+- 👀 I’m interested in physical activities like cycling 🚴‍♂️, working out 🏋️‍♂️ and I also like music 🎼 and reading 📚.
 - 🌱 I’m currently had knowledge about Web Development HTML, CSS, JavaScript, Database and Plan to Improve my knowledge in Web Developing trough gitHub.
 
 - ⚡ "The best way to get things done is to simply begin"
