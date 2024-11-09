@@ -3,6 +3,7 @@
 - 🌱 I’m currently had knowledge about Web Development HTML, CSS, JavaScript, Database and Plan to Improve my knowledge in Web Developing trough gitHub.
 
 - ⚡ "The best way to get things done is to simply begin"
+- "He who climb the ladder, must begin at the bottom"
 
 <!---
 phillip-github/phillip-github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
